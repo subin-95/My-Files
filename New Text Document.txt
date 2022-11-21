@@ -4,7 +4,7 @@
 </head>
 
 <body>
-<h3 style="background-color:lightblue;">
+
 <center><b><h1>Welcome to My Portfolio!</center></b></h1>
 <h3 style="background-color:white;">
 <font color="blue"><b><h1></b>SUBIN LAL S M</h1></font>
@@ -31,6 +31,5 @@ mentioned field.</h3></i>
 <font color="blue"</h3><p><b><h3>Skills:</p></h3></b></font>
 <p><b><h3>* Project Management &nbsp* source code management &nbsp * Organizational Skills  &nbsp* github  &nbsp* Web designing <br> &nbsp* Excel * Sourcing and screening
 resumes  &nbsp* Office Administration  &nbsp* Planning & Excecution  &nbsp* procurement.</p></h3></b></font
-
 </body>
 </html>
